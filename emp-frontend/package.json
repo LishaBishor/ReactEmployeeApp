@@ -16,7 +16,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage":"http://lishabishor.github.io/ReactEmployeeApp",
+  "homepage":"http://LishaBishor.github.io/ReactEmployeeApp",
   
   "scripts": {
     "start": "react-scripts start",
